@@ -1,4 +1,4 @@
-fetch('../public/i18n.json')
+fetch('public/i18n.json')
   .then(response => response.json())
   .then(translations => {
 
