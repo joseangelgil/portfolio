@@ -1,0 +1,31 @@
+$primary:       #0F4C5C;
+$secondary:     #9DC88D;
+$terciary:      #fdf5ae;
+
+// 🟢 Verde oscuro (#0F4C5C) → Fondo o detalles.
+// 🌿 Verde claro (#9DC88D) → Botones o acentos.
+// 🌾 Beige (#F2E9D8) → Fondo o texto.
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+}
+
+html {
+  color: $primary;
+}
+
+
+section {
+  width: 100%;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+// IMPORT BOOTSTRAP
+@import '../../node_modules/bootstrap/scss/bootstrap.scss'; // Bootstrap must be imported after modifying its variables. If we import it before making changes to the variables, those changes will have no effect because Bootstrap will use its default values. However, if we define the variables before importing Bootstrap, it will apply our custom values instead of the defaults.
+
+
+
+

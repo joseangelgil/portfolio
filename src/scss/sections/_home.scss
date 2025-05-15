@@ -1,0 +1,69 @@
+@use '../customization' as c;
+
+.home {
+  color: c.$primary;  
+  background: linear-gradient(to bottom, transparent, c.$secondary);
+  display: flex;
+  align-items: center;
+  padding-top: 75px;
+
+  h1 {
+    font-size: 5rem;
+    margin-bottom: 25px;
+  }
+
+  h4 {
+    padding-right: 20px;
+  }
+
+  &__image {
+    position: relative;
+    max-width: 683px; 
+    max-height: 770px;
+  }
+
+}
+
+li a {
+  cursor: pointer;
+  color: c.$primary !important;
+
+  &:hover {    
+    background-color: c.$secondary !important;
+  }
+}
+
+
+// Behavior of the menu on screens under 1510px
+@media (width < 1510px) { 
+  .home {
+
+    align-items: flex-start;
+
+    .row {
+      flex-direction: column;
+      gap: 50px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 4rem;
+    }
+
+    &__icons {
+      justify-content: center !important;
+    }
+  }
+}
+
+
+// Behavior of the menu on screens under 768px
+@media (width < 768px) { 
+  .home {
+
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+}
+

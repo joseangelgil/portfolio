@@ -1,0 +1,23 @@
+@use '../customization' as c;
+
+.footer {
+  height: 100px;
+  color: gray;
+  background-color: black;
+
+  &__link {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+#come-back-btn {
+  position: fixed;
+  bottom: 0;
+  right: 12px;
+  color: c.$primary;
+
+  i {
+    font-size: 2rem;
+  }
+}

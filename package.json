@@ -4,7 +4,8 @@
   "description": "Portfolio created using bootstrap and sass combined",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "sass --watch src/scss/styles.scss:src/css/styles.css"
   },
   "keywords": [
     "portfolio",
@@ -17,6 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "sass": "^1.86.0"
   }
 }

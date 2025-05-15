@@ -1,0 +1,36 @@
+{
+  "en": {
+    "home-greeting": "Hi! I'm Jose Angel",
+    "home-description1": "An engineer with a passion for programming.",
+    "home-description2": "Welcome to my portfolio!",
+    "home-description3": "It was made with HTML, Bootstrap, Sass & JavaScript Technologies ",
+    "home-description4": "Enjoy yourself visiting and do not hesitate to contact if you find it interesting!",
+    "language-1": "English",
+    "language-2": "Spanish",
+    "nav-item-1": "Home",
+    "nav-item-2": "Projects",
+    "nav-item-3": "Contact",
+    "nav-item-4": "Language",
+    "projects-title": "Have a look to my latest projects",
+    "projects-description": "Every project shown here was made from zero applying the concepts that I have learnt, using technologies such as HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind and React.",
+    "contact-description": "Did you find any of my projects interesting? Tell me which one!",
+    "motivation": "We should never stop learning. The school is just the ramp-up."
+  },
+  "es": {
+    "home-greeting": "¡Hola! Soy Jose Angel",
+    "home-description1": "Un ingeniero con una pasión por la programación.",
+    "home-description2": "¡Bienvenid@ a mi portafolio!",
+    "home-description3": "Hecho combinando las tecnologias HTLM, Bootstrap, Sass y JavaScript",
+    "home-description4": "¡Disfruta de la visita y no dudes en contactarme si te resulta interesante!",
+    "language-1": "Inglés",
+    "language-2": "Español",
+    "nav-item-1": "Inicio",
+    "nav-item-2": "Proyectos",
+    "nav-item-3": "Contacto",
+    "nav-item-4": "Idioma",    
+    "projects-title": "Echa un vistazo a mis últimos proyectos",
+    "projects-description": "Todos los proyectos mostrados aquí fueron creados desde cero, aplicando los conceptos que he aprendido usando tecnologías como HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind y React.",
+    "contact-description": "¿Encontraste alguno de mis proyectos interesante? ¡Dime cual!",
+    "motivation": "Nunca deberíamos dejar de aprender. La escuela es solo la rampa de salida."
+  }
+}

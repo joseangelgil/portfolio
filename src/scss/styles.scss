@@ -1,0 +1,9 @@
+// IMPORT THE CUSTOMIZATION STYLES
+@use 'customization';
+
+// IMPORT THE SECTIONS
+@use 'sections/navbar';
+@use 'sections/home';
+@use 'sections/projects';
+@use 'sections/contact';
+@use 'sections/footer';

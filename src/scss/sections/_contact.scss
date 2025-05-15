@@ -1,0 +1,47 @@
+@use '../customization' as c;
+
+$brand-colors: (
+  "instagram": #E1306C,
+  "github": #181717,
+  "email": #0072C6,
+  "linkedin": #0077B5
+);
+
+@function hover-color($element) {
+  @if map-has-key($brand-colors, $element) {
+    @return map-get($brand-colors, $element);
+  } @else {
+    @return white;
+  }
+}
+
+.contact {
+  background: c.$secondary; 
+  min-height: 50vh;
+  color: c.$primary;
+
+  i {
+    font-size: 2.5rem;
+    cursor: pointer;    
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      transform: translateY(-7px);
+      transition: all 0.2s ease-in-out;
+    }
+  }
+
+  .instagram:hover {
+    color: hover-color(instagram)
+  }
+  .github:hover {
+    color: hover-color(github)
+  }
+  .linkedin:hover {
+    color: hover-color(linkedin)
+  }
+  .email:hover {
+    color: hover-color(email)
+  }
+  
+}

@@ -1,2 +1,11 @@
+# Ignore Node.js dependencies
 node_modules/
+
+# Ignore production-ready files
 dist/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore temporary files
+*.log
