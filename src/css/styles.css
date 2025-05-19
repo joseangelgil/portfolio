@@ -11965,6 +11965,7 @@ li a:hover {
 .projects .project-box {
   position: relative;
   width: 100%;
+  min-width: 100%;
   aspect-ratio: 16/9;
   overflow: hidden;
   border-top: 0.5rem solid #0F4C5C;
