@@ -8,11 +8,14 @@
     "language-1": "English",
     "language-2": "Spanish",
     "nav-item-1": "Home",
-    "nav-item-2": "Projects",
-    "nav-item-3": "Contact",
-    "nav-item-4": "Language",
+    "nav-item-2": "About me",
+    "nav-item-3": "Projects",
+    "nav-item-4": "Contact",
+    "nav-item-5": "Language",
+    "about-title": "About me",
+    "about-description": "I'm an engineer with an evolving passion for software development, driven by a natural inclination for analytical thinking and problem solving. What began as curiosity has grown into a deep commitment to understanding how things work behind the screen and how to build them. Through consistent self-study, I've been focusing on front-end technologies like HTML, CSS, JavaScript, and React, enjoying the process of turning ideas into interactive, meaningful interfaces. I'm now looking for my first opportunity in tech where I can contribute, grow, and continue learning alongside others.",  
     "projects-title": "Have a look to my latest projects",
-    "projects-description": "Every project shown here was made from zero applying the concepts that I have learnt, using technologies such as HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind and React.",
+    "projects-description": "Every project shown here was built from scratch applying the concepts that I have learnt, using technologies such as HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind and React.",
     "contact-description": "Did you find any of my projects interesting? Tell me which one!",
     "motivation": "This is just the beginning! Stay tunned for more! Thank you for visiting!"
   },
@@ -25,12 +28,15 @@
     "language-1": "Inglés",
     "language-2": "Español",
     "nav-item-1": "Inicio",
-    "nav-item-2": "Proyectos",
-    "nav-item-3": "Contacto",
-    "nav-item-4": "Idioma",    
+    "nav-item-2": "Sobre mí",
+    "nav-item-3": "Proyectos",
+    "nav-item-4": "Contacto",
+    "nav-item-5": "Idioma",  
+    "about-title": "Sobre mí",
+    "about-description": "Soy un ingeniero con una pasión creciente por el desarrollo de software, impulsada por una inclinación natural hacia el pensamiento analítico y la resolución de problemas. Lo que comenzó como curiosidad, se ha convertido en un compromiso profundo con entender cómo funcionan las cosas por dentro y cómo construirlas. A través del autoaprendizaje constante, me he centrado en tecnologías front-end como HTML, CSS, JavaScript y React, disfrutando del proceso de convertir ideas en interfaces interactivas y con sentido. Actualmente, busco mi primera oportunidad en el sector tecnológico, en un entorno donde pueda aportar, crecer y seguir aprendiendo junto a otros.",  
     "projects-title": "Echa un vistazo a mis últimos proyectos",
     "projects-description": "Todos los proyectos mostrados aquí fueron creados desde cero, aplicando los conceptos que he aprendido usando tecnologías como HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind y React.",
     "contact-description": "¿Encontraste alguno de mis proyectos interesante? ¡Dime cual!",
-    "motivation": "¡Esto es solo el comienzo! ¡Mantente conectad@ para más contenido! ¡Gracias por tu visita!"
+    "motivation": "¡Esto es solo el comienzo! ¡Mantente conectad@ para más! ¡Gracias por tu visita!"
   }
 }

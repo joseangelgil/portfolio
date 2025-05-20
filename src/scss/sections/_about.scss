@@ -1,0 +1,21 @@
+@use '../customization' as c;
+
+.about {  
+  background: c.$secondary;
+  color: c.$primary;     
+  user-select: none;
+  min-height: 50vh;
+  padding-top: 50px;
+  line-height: 10px;
+
+  // &__title::after {
+  //  content: "";
+  //   display: block;
+  //   width: 100px;
+  //   margin: 7px auto;
+  //   border: 1px solid c.$primary;
+  // } 
+}
+
+
+

@@ -11,7 +11,7 @@ html {
 
 section {
   width: 100%;
-  min-height: 100vh;
+  min-height: 90vh;
   padding: 50px;
 }
 
@@ -11957,6 +11957,15 @@ li a:hover {
     font-size: 2.5rem;
   }
 }
+.about {
+  background: #9DC88D;
+  color: #0F4C5C;
+  user-select: none;
+  min-height: 50vh;
+  padding-top: 50px;
+  line-height: 10px;
+}
+
 .projects {
   background: #9DC88D;
   color: #0F4C5C;
