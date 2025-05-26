@@ -11921,6 +11921,7 @@ header {
 }
 .home h4 {
   padding-right: 20px;
+  margin-bottom: 15px;
 }
 .home__image {
   position: relative;
@@ -12024,6 +12025,9 @@ li a:hover {
   min-height: 50vh;
   color: #0F4C5C;
 }
+.contact h4 {
+  margin-bottom: 25px;
+}
 .contact i {
   font-size: 2.5rem;
   cursor: pointer;
@@ -12044,6 +12048,9 @@ li a:hover {
 }
 .contact .email:hover {
   color: #0072C6;
+}
+.contact .twitter:hover {
+  color: #000000;
 }
 
 .footer {

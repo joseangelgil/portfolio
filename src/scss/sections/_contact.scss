@@ -4,7 +4,8 @@ $brand-colors: (
   "instagram": #E1306C,
   "github": #181717,
   "email": #0072C6,
-  "linkedin": #0077B5
+  "linkedin": #0077B5,
+  "twitter": #000000
 );
 
 @function hover-color($element) {
@@ -19,6 +20,10 @@ $brand-colors: (
   background: c.$secondary; 
   min-height: 50vh;
   color: c.$primary;
+
+  h4 {
+    margin-bottom: 25px;
+  }
 
   i {
     font-size: 2.5rem;
@@ -42,6 +47,9 @@ $brand-colors: (
   }
   .email:hover {
     color: hover-color(email)
+  }
+  .twitter:hover {
+    color: hover-color(twitter)
   }
   
 }
