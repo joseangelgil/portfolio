@@ -16,6 +16,7 @@
     "about-description": "I'm an engineer with an evolving passion for software development, driven by a natural inclination for analytical thinking and problem solving. What began as curiosity has grown into a deep commitment to understanding how things work behind the screen and how to build them. Through consistent self-study, I've been focusing on front-end technologies like HTML, CSS, JavaScript, and React, enjoying the process of turning ideas into interactive, meaningful interfaces. I'm now looking for my first opportunity in tech where I can contribute, grow, and continue learning alongside others.",  
     "projects-title": "Have a look to my latest projects",
     "projects-description": "Every project shown here was built from scratch applying the concepts that I have learnt, using technologies such as HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind and React.",
+    "unfinished-project": "Coming Soon!",
     "contact-description": "Did you find any of my projects interesting? Tell me which one!",
     "motivation": "This is just the beginning! Stay tuned for more! Thank you for visiting!"
   },
@@ -36,6 +37,7 @@
     "about-description": "Soy un ingeniero con una pasión creciente por el desarrollo de software, impulsada por una inclinación natural hacia el pensamiento analítico y la resolución de problemas. Lo que comenzó como curiosidad, se ha convertido en un compromiso profundo con entender cómo funcionan las cosas por dentro y cómo construirlas. A través del autoaprendizaje constante, me he centrado en tecnologías front-end como HTML, CSS, JavaScript y React, disfrutando del proceso de convertir ideas en interfaces interactivas y con sentido. Actualmente, busco mi primera oportunidad en el sector tecnológico, en un entorno donde pueda aportar, crecer y seguir aprendiendo junto a otros.",  
     "projects-title": "Echa un vistazo a mis últimos proyectos",
     "projects-description": "Todos los proyectos mostrados aquí fueron creados desde cero, aplicando los conceptos que he aprendido usando tecnologías como HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind y React.",
+    "unfinished-project": "¡Muy Pronto!",
     "contact-description": "¿Encontraste alguno de mis proyectos interesante? ¡Dime cual!",
     "motivation": "¡Esto es solo el comienzo! ¡Mantente conectad@ para más! ¡Gracias por tu visita!"
   }
